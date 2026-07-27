@@ -26,3 +26,15 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiwariamrit68-art&show_icons=true&locale=en&layout=compact" alt="tiwariamrit68-art" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiwariamrit68-art&show_icons=true&locale=en" alt="tiwariamrit68-art" /></p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0035-search-insert-position) |
+<!---LeetCode Topics End-->
