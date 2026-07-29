@@ -34,6 +34,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0039-combination-sum) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,4 +55,12 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0039-combination-sum) |
+## Greedy
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Matrix
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 <!---LeetCode Topics End-->
