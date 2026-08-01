@@ -34,6 +34,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0039-combination-sum) |
+| [0486-predict-the-winner](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0486-predict-the-winner) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Binary Search
@@ -100,17 +101,24 @@
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0044-wildcard-matching) |
+| [0486-predict-the-winner](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0044-wildcard-matching) |
+| [0486-predict-the-winner](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
