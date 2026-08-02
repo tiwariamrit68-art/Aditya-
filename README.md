@@ -36,6 +36,7 @@
 | [0035-search-insert-position](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0039-combination-sum) |
 | [0486-predict-the-winner](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0877-stone-game) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Binary Search
@@ -105,12 +106,14 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -124,6 +127,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
