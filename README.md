@@ -116,6 +116,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0877-stone-game) |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1406-stone-game-iii) |
@@ -171,4 +173,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0069-sqrtx) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
