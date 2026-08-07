@@ -80,6 +80,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0039-combination-sum) |
+| [0089-gray-code](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0089-gray-code) |
 | [1980-find-unique-binary-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1980-find-unique-binary-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
@@ -125,6 +126,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0089-gray-code) |
 | [0486-predict-the-winner](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1406-stone-game-iii) |
@@ -194,4 +196,8 @@
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
