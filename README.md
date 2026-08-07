@@ -83,6 +83,7 @@
 | [0039-combination-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0039-combination-sum) |
 | [0089-gray-code](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0095-unique-binary-search-trees-ii) |
 | [1980-find-unique-binary-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1980-find-unique-binary-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0100-same-tree) |
 ## Depth-First Search
@@ -114,11 +116,13 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0100-same-tree) |
 ## Breadth-First Search
@@ -142,6 +146,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0062-unique-paths) |
+| [0095-unique-binary-search-trees-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0486-predict-the-winner](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1406-stone-game-iii) |
