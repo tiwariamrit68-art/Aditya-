@@ -37,6 +37,7 @@
 | [0035-search-insert-position](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0039-combination-sum) |
 | [0068-text-justification](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0068-text-justification) |
+| [0088-merge-sorted-array](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0088-merge-sorted-array) |
 | [0486-predict-the-winner](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1406-stone-game-iii) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0088-merge-sorted-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3731-find-missing-elements) |
@@ -159,6 +161,7 @@
 | ------- |
 | [0018-4sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0088-merge-sorted-array) |
 ## Sliding Window
 |  |
 | ------- |
