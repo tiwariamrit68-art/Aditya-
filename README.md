@@ -50,6 +50,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0069-sqrtx) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## String
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
 |  |
 | ------- |
@@ -206,6 +208,7 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3310-remove-methods-from-project) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Number Theory
 |  |
 | ------- |
@@ -218,4 +221,12 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0094-binary-tree-inorder-traversal) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
