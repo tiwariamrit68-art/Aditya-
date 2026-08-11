@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0068-text-justification) |
 | [0093-restore-ip-addresses](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0093-restore-ip-addresses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
