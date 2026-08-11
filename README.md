@@ -45,6 +45,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1980-find-unique-binary-string) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -72,6 +73,7 @@
 | ------- |
 | [0018-4sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0088-merge-sorted-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3731-find-missing-elements) |
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1980-find-unique-binary-string) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3731-find-missing-elements) |
 ## Game Theory
