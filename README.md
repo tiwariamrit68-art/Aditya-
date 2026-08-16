@@ -45,6 +45,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1980-find-unique-binary-string) |
+| [2029-stone-game-ix](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -87,6 +88,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
@@ -103,6 +105,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0044-wildcard-matching) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [2029-stone-game-ix](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -154,6 +157,7 @@
 | [0877-stone-game](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
@@ -190,6 +194,7 @@
 | [0877-stone-game](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2029-stone-game-ix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -208,11 +213,13 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2029-stone-game-ix) |
 ## Simulation
 |  |
 | ------- |
@@ -263,4 +270,8 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
