@@ -123,12 +123,14 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0100-same-tree) |
 | [3310-remove-methods-from-project](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
@@ -136,12 +138,14 @@
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0099-recover-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
