@@ -67,6 +67,7 @@
 | [0068-text-justification](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0068-text-justification) |
 | [0093-restore-ip-addresses](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0125-valid-palindrome) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -215,6 +216,7 @@
 | [0018-4sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0125-valid-palindrome) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
 |  |
