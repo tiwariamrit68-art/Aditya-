@@ -126,6 +126,7 @@
 | [0098-validate-binary-search-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [0098-validate-binary-search-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [3310-remove-methods-from-project](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
@@ -148,6 +150,7 @@
 | [0098-validate-binary-search-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -174,6 +177,7 @@
 | [0062-unique-paths](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0062-unique-paths) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0097-interleaving-string) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1140-stone-game-ii) |
@@ -284,4 +288,8 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2029-stone-game-ix) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
