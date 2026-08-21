@@ -135,6 +135,7 @@
 | [0099-recover-binary-search-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [0099-recover-binary-search-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0199-binary-tree-right-side-view) |
 | [3310-remove-methods-from-project](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
@@ -159,10 +161,12 @@
 | [0099-recover-binary-search-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0100-same-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0199-binary-tree-right-side-view) |
 | [3310-remove-methods-from-project](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3310-remove-methods-from-project) |
 ## Math
 |  |
