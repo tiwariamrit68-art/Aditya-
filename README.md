@@ -203,6 +203,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0044-wildcard-matching) |
+| [0143-reorder-list](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0143-reorder-list) |
 | [0486-predict-the-winner](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
@@ -231,6 +232,7 @@
 | [0031-next-permutation](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0143-reorder-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
 |  |
@@ -286,6 +288,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0143-reorder-list) |
 ## Union-Find
 |  |
 | ------- |
@@ -314,4 +317,8 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0124-binary-tree-maximum-path-sum) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
