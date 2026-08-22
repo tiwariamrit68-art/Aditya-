@@ -183,6 +183,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
