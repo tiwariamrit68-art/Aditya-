@@ -77,6 +77,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1927-sum-game](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1980-find-unique-binary-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -115,6 +116,7 @@
 | [0044-wildcard-matching](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0044-wildcard-matching) |
 | [1386-cinema-seat-allocation](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1386-cinema-seat-allocation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1927-sum-game](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -179,6 +181,7 @@
 | [1140-stone-game-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -225,6 +228,7 @@
 | [1140-stone-game-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2029-stone-game-ix) |
 ## Two Pointers
 |  |
