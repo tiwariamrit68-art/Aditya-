@@ -82,6 +82,7 @@
 | [1927-sum-game](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1980-find-unique-binary-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
