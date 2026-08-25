@@ -83,6 +83,7 @@
 | [1980-find-unique-binary-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1980-find-unique-binary-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -94,6 +95,7 @@
 | ------- |
 | [0018-4sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0088-merge-sorted-array) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -219,6 +221,7 @@
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1386-cinema-seat-allocation) |
 | [1980-find-unique-binary-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1980-find-unique-binary-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
