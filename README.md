@@ -92,6 +92,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -257,6 +258,7 @@
 | [0125-valid-palindrome](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0143-reorder-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -352,4 +354,5 @@
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
