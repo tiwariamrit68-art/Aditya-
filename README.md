@@ -355,6 +355,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0143-reorder-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Enumeration
 |  |
 | ------- |
