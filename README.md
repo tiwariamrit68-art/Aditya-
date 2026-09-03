@@ -40,6 +40,7 @@
 | [0088-merge-sorted-array](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0198-house-robber) |
+| [0284-peeking-iterator](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0284-peeking-iterator) |
 | [0486-predict-the-winner](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1140-stone-game-ii) |
@@ -370,4 +371,12 @@
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Design
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0284-peeking-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
