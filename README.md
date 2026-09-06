@@ -83,6 +83,7 @@
 | [0068-text-justification](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0068-text-justification) |
 | [0093-restore-ip-addresses](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0125-valid-palindrome) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -222,6 +223,7 @@
 | [0062-unique-paths](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0062-unique-paths) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0486-predict-the-winner) |
