@@ -37,6 +37,7 @@
 | [0035-search-insert-position](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0039-combination-sum) |
 | [0068-text-justification](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0198-house-robber) |
@@ -81,6 +82,7 @@
 | [0044-wildcard-matching](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0115-distinct-subsequences) |
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0095-unique-binary-search-trees-ii) |
@@ -148,6 +151,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0079-word-search) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -166,6 +170,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0099-recover-binary-search-tree) |
