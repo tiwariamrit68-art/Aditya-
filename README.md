@@ -43,6 +43,7 @@
 | [0198-house-robber](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0198-house-robber) |
 | [0284-peeking-iterator](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0284-peeking-iterator) |
 | [0486-predict-the-winner](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1386-cinema-seat-allocation) |
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0079-word-search) |
+| [0835-image-overlap](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0835-image-overlap) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
