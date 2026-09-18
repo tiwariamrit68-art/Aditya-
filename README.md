@@ -93,6 +93,7 @@
 | [0115-distinct-subsequences](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0125-valid-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -116,6 +117,7 @@
 | ------- |
 | [0018-4sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0088-merge-sorted-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -145,6 +147,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0044-wildcard-matching) |
 | [1386-cinema-seat-allocation](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1927-sum-game](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2029-stone-game-ix) |
@@ -272,6 +275,7 @@
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1980-find-unique-binary-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
