@@ -53,6 +53,7 @@
 | [1563-stone-game-v](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1872-stone-game-viii) |
 | [1980-find-unique-binary-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1980-find-unique-binary-string) |
 | [2029-stone-game-ix](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2029-stone-game-ix) |
@@ -100,6 +101,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1927-sum-game](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1980-find-unique-binary-string) |
@@ -286,6 +288,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1980-find-unique-binary-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
