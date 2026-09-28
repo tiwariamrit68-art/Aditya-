@@ -452,4 +452,8 @@
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
