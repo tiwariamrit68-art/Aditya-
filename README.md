@@ -234,6 +234,7 @@
 | [0062-unique-paths](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0089-gray-code) |
+| [0264-ugly-number-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0877-stone-game) |
@@ -265,6 +266,7 @@
 | [0115-distinct-subsequences](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0198-house-robber) |
+| [0264-ugly-number-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0940-distinct-subsequences-ii) |
@@ -289,6 +291,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0264-ugly-number-ii) |
 | [1386-cinema-seat-allocation](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -460,4 +463,8 @@
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0196-delete-duplicate-emails) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
