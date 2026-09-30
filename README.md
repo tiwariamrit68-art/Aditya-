@@ -36,6 +36,7 @@
 | [0031-next-permutation](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0051-n-queens) |
 | [0068-text-justification](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0088-merge-sorted-array) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0093-restore-ip-addresses) |
@@ -470,4 +472,8 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0264-ugly-number-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
