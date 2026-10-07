@@ -101,6 +101,7 @@
 | [0097-interleaving-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0940-distinct-subsequences-ii) |
@@ -157,6 +158,7 @@
 | [0089-gray-code](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0301-remove-invalid-parentheses) |
 | [1980-find-unique-binary-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1980-find-unique-binary-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
@@ -234,6 +236,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0301-remove-invalid-parentheses) |
 | [3310-remove-methods-from-project](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
