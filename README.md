@@ -63,6 +63,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -181,6 +182,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -320,6 +322,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1980-find-unique-binary-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -406,6 +409,7 @@
 | [0089-gray-code](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1386-cinema-seat-allocation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
