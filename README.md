@@ -75,6 +75,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3525-find-x-value-of-array-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -207,6 +208,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/tiwariamrit68-art/Aditya-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Tree
 |  |
 | ------- |
@@ -232,6 +234,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0199-binary-tree-right-side-view) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -258,6 +261,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0301-remove-invalid-parentheses) |
 | [3310-remove-methods-from-project](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -445,6 +449,7 @@
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tiwariamrit68-art/Aditya-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
