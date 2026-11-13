@@ -139,6 +139,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3614-process-string-with-special-operations-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
@@ -399,6 +400,7 @@
 | [0068-text-justification](https://github.com/tiwariamrit68-art/Aditya-/tree/master/0068-text-justification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3498-reverse-degree-of-a-string) |
+| [3614-process-string-with-special-operations-ii](https://github.com/tiwariamrit68-art/Aditya-/tree/master/3614-process-string-with-special-operations-ii) |
 ## Newton's Method
 |  |
 | ------- |
